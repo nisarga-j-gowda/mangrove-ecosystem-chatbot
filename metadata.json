@@ -1,0 +1,5 @@
+{
+  "name": "Mangroves & Coastal Ecosystems Chatbot",
+  "description": "An interactive chatbot that provides information about mangroves and coastal ecosystems, with a special focus on the mangrove regions of Karnataka, powered by Gemini.",
+  "requestFramePermissions": []
+}
